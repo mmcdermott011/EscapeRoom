@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39fc62ed724befd4a88c7aa6ae6b4f0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TV_text: {fileID: 2161255017736948217, guid: 7a6ab556a47497242811e5fbe325eee5,
+      type: 3}
+  - TV_audio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
